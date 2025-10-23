@@ -14,11 +14,11 @@ This analysis was developed in collaboration with the **Risk Management Departme
 ---
 ### Key Analytical Focus Areas
 
-- **Fraud Pattern Detection:** Historical claims data was analyzed to identify recurring behaviors and indicators commonly linked with fraudulent submissions, including duplicate claims, unusually high claim values, and short policy tenures.  
+- **Fraud Pattern Detection:** Historical claims data was analyzed to identify recurring behaviors and indicators commonly linked with fraudulent submissions, including duplicate claims, unusually high claim values and short policy tenures.  
 
-- **Risk Scoring and Classification:** A fraud scoring model (0–100) was developed to categorize claims into high, medium, or low-risk tiers, enabling faster prioritization for investigation before payouts are made.  
+- **Risk Scoring and Classification:** A fraud scoring model (0–100) was developed to categorize claims into high, medium or low-risk tiers, enabling faster prioritization for investigation before payouts are made.  
 
-- **Customer and Agent Behavior Profiling:** Customer and agent activity patterns were evaluated to uncover relationships between repeated claim submissions, claim frequency, and past fraud involvement, strengthening early risk identification.  
+- **Customer and Agent Behavior Profiling:** Customer and agent activity patterns were evaluated to uncover relationships between repeated claim submissions, claim frequency and past fraud involvement, strengthening early risk identification.  
 
-- **Real-Time Fraud Monitoring:** Interactive Power BI dashboards were implemented to visualize risk levels across claims, customers, and regions, allowing the Risk Management and Compliance teams to monitor exposure and respond proactively.
+- **Real-Time Fraud Monitoring:** Interactive Power BI dashboards were implemented to visualize risk levels across claims, customers and regions, allowing the Risk Management and Compliance teams to monitor exposure and respond proactively.
 
