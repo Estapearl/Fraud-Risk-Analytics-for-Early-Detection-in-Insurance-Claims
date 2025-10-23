@@ -11,3 +11,14 @@ The dataset analyzed contained **7,000+ claims** across various insurance types,
 
 This analysis was developed in collaboration with the **Risk Management Department** to enhance early fraud detection across Verital insurance claims data. The objective is to leverage **historical claims data** to uncover recurring patterns, assign **fraud risk scores (0–100)**, and categorize claims into high, medium, and low-risk tiers. By integrating these insights into **real-time Power BI dashboards**, the team can now identify and investigate suspicious claims **before payouts occur**, enabling them to act swiftly, minimize financial losses, and strengthen overall **risk governance**.
 
+---
+### Key Analytical Focus Areas
+
+- **Fraud Pattern Detection:** Historical claims data was analyzed to identify recurring behaviors and indicators commonly linked with fraudulent submissions, including duplicate claims, unusually high claim values, and short policy tenures.  
+
+- **Risk Scoring and Classification:** A fraud scoring model (0–100) was developed to categorize claims into high, medium, or low-risk tiers, enabling faster prioritization for investigation before payouts are made.  
+
+- **Customer and Agent Behavior Profiling:** Customer and agent activity patterns were evaluated to uncover relationships between repeated claim submissions, claim frequency, and past fraud involvement, strengthening early risk identification.  
+
+- **Real-Time Fraud Monitoring:** Interactive Power BI dashboards were implemented to visualize risk levels across claims, customers, and regions, allowing the Risk Management and Compliance teams to monitor exposure and respond proactively.
+
