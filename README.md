@@ -23,6 +23,8 @@ This analysis was developed in collaboration with the **Risk Management Departme
 - **Real-Time Fraud Monitoring:** Interactive Power BI dashboards were implemented to visualize risk levels across claims, customers and regions, allowing the Risk Management and Compliance teams to monitor exposure and respond proactively.
 
 ---
+<h2 align="center">Executive Summary</h2>
+
 <table width="100%">
   <tr>
     <td align="center" width="50%" style="vertical-align: top;">
@@ -34,4 +36,24 @@ This analysis was developed in collaboration with the **Risk Management Departme
   </tr>
 </table>
 
+### 🟦 Percentage Fraud Risk by Region
+- **London:** 31% of total claims, with **7% high-risk** suggesting effective fraud controls despite high volume.  
+- **Scotland:** **8% high-risk**, signaling potential localized fraud or weaker verification.  
+- **Midlands** and **South East:** both at **6% high-risk**, showing moderate exposure.  
+- **North West** and **Wales:** each around **10% total claims** and **6–7% high-risk**, maintaining balanced ratios.  
+- Overall, results highlight the need for **region-specific fraud prevention strategies**.
+    </td>
+
+    <!-- Right chart -->
+    <td align="center" width="50%">
+      <img src="High Risk Claim by Claim Type.png" width="420"/><br>
+
+### 🟨 High-Risk Claims by Claim Type
+- **Business claims:** highest fraud exposure at **15%**, linked to complex claim structures and higher values.  
+- **Auto claims:** **10% high-risk**, commonly from **inflated accident or repair claims**.  
+- **Home** and **Travel** claims recorded **no high-risk cases**, indicating stronger verification processes.  
+- Insights suggest focusing **fraud analytics and automated checks** on **Business** and **Auto** claim categories.
+    </td>
+  </tr>
+</table>
 
