@@ -26,15 +26,12 @@ This analysis was developed in collaboration with the **Risk Management Departme
 <table width="100%">
   <tr>
     <td align="center" width="50%" style="vertical-align: top;">
-      <img src="Percentage%20Fraud%20Risk%20by%20region.png" alt="Regional Distribution of High-Risk Claims vs. Total Claims (%)" width="95%"><br>
-      <p><strong>Regional Distribution of High-Risk Claims vs. Total Claims (%)</strong><br>
-      London accounts for the largest claim share (31%) with 7% high-risk rate, suggesting higher exposure despite moderate fraud concentration.</p>
+      <img src="Percentage%20Fraud%20Risk%20by%20Region.png" alt="Percentage Fraud Risk by Region" width="95%"><br>
     </td>
     <td align="center" width="50%" style="vertical-align: top;">
-      <img src="High%20Risk%20Claim%20by%20Claim%20Type.png" alt="High-Risk Claims by Claim Type (%)" width="95%"><br>
-      <p><strong>High-Risk Claims by Claim Type (%)</strong><br>
-      Business claims show the highest fraud risk (15%), followed by Auto (10%), indicating where early vetting should be prioritized.</p>
+      <img src="High%20Risk%20Claim%20by%20Claim%20Type.png" alt="High Risk Claim by Claim Type" width="95%"><br>
     </td>
   </tr>
 </table>
+
 
