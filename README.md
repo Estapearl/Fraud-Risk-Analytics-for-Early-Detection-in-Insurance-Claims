@@ -16,9 +16,25 @@ This analysis was developed in collaboration with the **Risk Management Departme
 
 - **Fraud Pattern Detection:** Historical claims data was analyzed to identify recurring behaviors and indicators commonly linked with fraudulent submissions, including duplicate claims, unusually high claim values and short policy tenures.  
 
-- **Risk Scoring and Classification:** A fraud scoring model (0–100) was developed to categorize claims into high, medium or low-risk tiers, enabling faster prioritization for investigation before payouts are made.  
+- **Risk Scoring and Classification:** A fraud scoring model (0–100) was developed to categorize claims into high, medium or low-risk tiers, enabling faster prioritization for investigation before payouts are made.
 
 - **Customer and Agent Behavior Profiling:** Customer and agent activity patterns were evaluated to uncover relationships between repeated claim submissions, claim frequency and past fraud involvement, strengthening early risk identification.  
 
 - **Real-Time Fraud Monitoring:** Interactive Power BI dashboards were implemented to visualize risk levels across claims, customers and regions, allowing the Risk Management and Compliance teams to monitor exposure and respond proactively.
+
+---
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <img src="Percentage%20Fraud%20Risk%20by%20region.png" alt="Regional Distribution of High-Risk Claims vs. Total Claims (%)" width="95%"><br>
+      <p><strong>Regional Distribution of High-Risk Claims vs. Total Claims (%)</strong><br>
+      London accounts for the largest claim share (31%) with 7% high-risk rate, suggesting higher exposure despite moderate fraud concentration.</p>
+    </td>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <img src="High%20Risk%20Claim%20by%20Claim%20Type.png" alt="High-Risk Claims by Claim Type (%)" width="95%"><br>
+      <p><strong>High-Risk Claims by Claim Type (%)</strong><br>
+      Business claims show the highest fraud risk (15%), followed by Auto (10%), indicating where early vetting should be prioritized.</p>
+    </td>
+  </tr>
+</table>
 
