@@ -36,36 +36,23 @@ This analysis was developed in collaboration with the **Risk Management Departme
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <figure>
-        <img src="Percentage%20Fraud%20Risk%20by%20Region.png" alt="Percentage Fraud Risk by Region" style="max-width:100%; height:auto;">
-        <figcaption style="text-align:left; margin-top:8px;">
-          <strong>Percentage Fraud Risk by Region</strong>
-          <ul>
-            <li><strong>London:</strong> 31% of total claims, <strong>7%</strong> high-risk — high volume with moderate fraud rate.</li>
-            <li><strong>Scotland:</strong> <strong>8%</strong> high-risk — higher fraud intensity despite smaller volume.</li>
-            <li><strong>Midlands / South East:</strong> ~<strong>6%</strong> high-risk — moderate exposure.</li>
-          </ul>
-        </figcaption>
-      </figure>
-    </td>
+<p align="center">
+  <table>
+    <tr>
+      <!-- Chart 1 -->
+      <td align="center" width="50%">
+        <img src="Percentage Fraud Risk by Region.png" alt="Percentage Fraud Risk by Region" width="95%">
+        <p><b>Percentage Fraud Risk by Region:</b> London recorded <b>7%</b> of high-risk claims despite contributing <b>31%</b> of all total claims, showing a strong fraud concentration. The Midlands followed with <b>6%</b> high-risk versus <b>20%</b> total claims, while Wales and the North West both had <b>7%</b> and <b>6%</b> high-risk respectively. This highlights regional disparities in claim risk distribution.</p>
+      </td>
 
-    <td align="center" width="50%" style="vertical-align: top;">
-      <figure>
-        <img src="High%20Risk%20Claim%20by%20Claim%20Type.png" alt="High Risk Claim by Claim Type" style="max-width:100%; height:auto;">
-        <figcaption style="text-align:left; margin-top:8px;">
-          <strong>High-Risk Claims by Claim Type</strong>
-          <ul>
-            <li><strong>Business:</strong> <strong>15%</strong> high-risk — highest fraud exposure.</li>
-            <li><strong>Auto:</strong> <strong>10%</strong> high-risk — significant given volume.</li>
-            <li><strong>Home / Travel:</strong> no high-risk cases detected.</li>
-          </ul>
-        </figcaption>
-      </figure>
-    </td>
-  </tr>
-</table>
+      <!-- Chart 2 -->
+      <td align="center" width="50%">
+        <img src="High Risk Claim by Claim Type.png" alt="High Risk Claim by Claim Type" width="95%">
+        <p><b>High-Risk Claims by Claim Type:</b> Business claims accounted for <b>15%</b> of high-risk claims, compared to <b>10%</b> from Auto claims. Other claim categories recorded no significant fraud risk, indicating targeted exposure in business-related policies.</p>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 
