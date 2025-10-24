@@ -36,24 +36,36 @@ This analysis was developed in collaboration with the **Risk Management Departme
   </tr>
 </table>
 
-### 🟦 Percentage Fraud Risk by Region
-- **London:** 31% of total claims, with **7% high-risk** suggesting effective fraud controls despite high volume.  
-- **Scotland:** **8% high-risk**, signaling potential localized fraud or weaker verification.  
-- **Midlands** and **South East:** both at **6% high-risk**, showing moderate exposure.  
-- **North West** and **Wales:** each around **10% total claims** and **6–7% high-risk**, maintaining balanced ratios.  
-- Overall, results highlight the need for **region-specific fraud prevention strategies**.
+<table width="100%">
+  <tr>
+    <td align="center" width="50%" style="vertical-align: top;">
+      <figure>
+        <img src="Percentage%20Fraud%20Risk%20by%20Region.png" alt="Percentage Fraud Risk by Region" style="max-width:100%; height:auto;">
+        <figcaption style="text-align:left; margin-top:8px;">
+          <strong>Percentage Fraud Risk by Region</strong>
+          <ul>
+            <li><strong>London:</strong> 31% of total claims, <strong>7%</strong> high-risk — high volume with moderate fraud rate.</li>
+            <li><strong>Scotland:</strong> <strong>8%</strong> high-risk — higher fraud intensity despite smaller volume.</li>
+            <li><strong>Midlands / South East:</strong> ~<strong>6%</strong> high-risk — moderate exposure.</li>
+          </ul>
+        </figcaption>
+      </figure>
     </td>
 
-    <!-- Right chart -->
-    <td align="center" width="50%">
-      <img src="High Risk Claim by Claim Type.png" width="420"/><br>
-
-### 🟨 High-Risk Claims by Claim Type
-- **Business claims:** highest fraud exposure at **15%**, linked to complex claim structures and higher values.  
-- **Auto claims:** **10% high-risk**, commonly from **inflated accident or repair claims**.  
-- **Home** and **Travel** claims recorded **no high-risk cases**, indicating stronger verification processes.  
-- Insights suggest focusing **fraud analytics and automated checks** on **Business** and **Auto** claim categories.
+    <td align="center" width="50%" style="vertical-align: top;">
+      <figure>
+        <img src="High%20Risk%20Claim%20by%20Claim%20Type.png" alt="High Risk Claim by Claim Type" style="max-width:100%; height:auto;">
+        <figcaption style="text-align:left; margin-top:8px;">
+          <strong>High-Risk Claims by Claim Type</strong>
+          <ul>
+            <li><strong>Business:</strong> <strong>15%</strong> high-risk — highest fraud exposure.</li>
+            <li><strong>Auto:</strong> <strong>10%</strong> high-risk — significant given volume.</li>
+            <li><strong>Home / Travel:</strong> no high-risk cases detected.</li>
+          </ul>
+        </figcaption>
+      </figure>
     </td>
   </tr>
 </table>
+
 
