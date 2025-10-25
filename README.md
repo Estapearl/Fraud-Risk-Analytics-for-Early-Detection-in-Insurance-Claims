@@ -35,23 +35,33 @@ This analysis was developed in collaboration with the **Risk Management Departme
     </td>
   </tr>
 </table>
-
+----
+<!-- ===== Dashboard 1 ===== -->
 <p align="center">
-  <table>
-    <tr>
-      <!-- Chart 1 -->
-      <td align="center" width="50%">
-        <img src="Percentage Fraud Risk by Region.png" alt="Percentage Fraud Risk by Region" width="95%">
-        <p><b>Percentage Fraud Risk by Region:</b> London recorded <b>7%</b> of high-risk claims despite contributing <b>31%</b> of all total claims, showing a strong fraud concentration. The Midlands followed with <b>6%</b> high-risk versus <b>20%</b> total claims, while Wales and the North West both had <b>7%</b> and <b>6%</b> high-risk respectively. This highlights regional disparities in claim risk distribution.</p>
-      </td>
+  <img src="Percentage Fraud Risk by Region.png" alt="Percentage Fraud Risk by Region" width="90%">
+</p>
 
-      <!-- Chart 2 -->
-      <td align="center" width="50%">
-        <img src="High Risk Claim by Claim Type.png" alt="High Risk Claim by Claim Type" width="95%">
-        <p><b>High-Risk Claims by Claim Type:</b> Business claims accounted for <b>15%</b> of high-risk claims, compared to <b>10%</b> from Auto claims. Other claim categories recorded no significant fraud risk, indicating targeted exposure in business-related policies.</p>
-      </td>
-    </tr>
-  </table>
+<ol>
+  <li><b>Regional Fraud Concentration:</b> London recorded <b>7%</b> of high-risk claims but contributed <b>31%</b> of total claims — a strong indicator of regional fraud clustering.</li>
+  <li><b>Midlands Exposure:</b> The Midlands followed with <b>6%</b> high-risk versus <b>20%</b> total claims, highlighting notable risk in mid-volume regions.</li>
+  <li><b>Regional Comparison:</b> Wales and the North West both recorded <b>7%</b> and <b>6%</b> high-risk shares respectively, suggesting smaller regions are not immune to fraud exposure.</li>
+  <li><b>Key Takeaway:</b> Risk is unevenly distributed — London remains a priority zone for proactive fraud monitoring and control.</li>
+</ol>
+
+<br>
+
+<!-- ===== Dashboard 2 ===== -->
+<p align="center">
+  <img src="High Risk Claim by Claim Type.png" alt="High Risk Claim by Claim Type" width="90%">
+</p>
+
+<ol>
+  <li><b>Category Exposure:</b> Business claims accounted for <b>15%</b> of all high-risk claims, compared to <b>10%</b> for Auto claims.</li>
+  <li><b>Policy Sensitivity:</b> Fraud detection shows stronger signals within business-related policies, possibly due to higher claim complexity and payout size.</li>
+  <li><b>Low-Risk Categories:</b> Home and Travel claims presented no notable high-risk activity in this review period.</li>
+  <li><b>Key Takeaway:</b> Business claims require enhanced scrutiny and risk-based investigation before payout authorization.</li>
+</ol>
+
 </p>
 
 
