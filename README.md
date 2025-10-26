@@ -61,4 +61,8 @@ This analysis was developed in collaboration with the **Risk Management Departme
   </div>
 
 </div>
+---
+| **Percentage Fraud Risk by Region** | **High-Risk Claims by Claim Type** |
+|------------------------------------|------------------------------------|
+| The analysis shows **regional differences** in fraud exposure. **London** accounts for **31% of total claims** but only **7% of high-risk claims**, suggesting better fraud controls relative to its claim volume. **Midland (20% total, 6% high-risk)** and **Scotland (15% total, 8% high-risk)** also stand out. Overall, the chart reveals that while regions like London handle the highest volume, their **fraud risk rate is proportionally lower**, indicating stronger detection measures. | The breakdown by claim type reveals that **Business claims (15%)** and **Auto claims (10%)** make up the majority of high-risk activity. The other claim types show minimal or no high-risk cases. This emphasizes the need for **targeted fraud monitoring** in high-value and vehicle-related claims, as these categories show greater vulnerability to fraudulent behavior. |
 
