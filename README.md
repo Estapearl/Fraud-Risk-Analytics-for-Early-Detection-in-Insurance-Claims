@@ -22,46 +22,6 @@ This analysis was developed in collaboration with the **Risk Management Departme
 
 - **Real-Time Fraud Monitoring:** Interactive Power BI dashboards were implemented to visualize risk levels across claims, customers and regions, allowing the Risk Management and Compliance teams to monitor exposure and respond proactively.
 
----
-<h2 align="center">Executive Summary</h2>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <img src="Percentage%20Fraud%20Risk%20by%20Region.png" alt="Percentage Fraud Risk by Region" width="95%"><br>
-    </td>
-    <td align="center" width="50%" style="vertical-align: top;">
-      <img src="High%20Risk%20Claim%20by%20Claim%20Type.png" alt="High Risk Claim by Claim Type" width="95%"><br>
-    </td>
-  </tr>
-</table>
-----
-<div style="display: flex; justify-content: space-between; gap: 25px; margin-top: 20px;">
-
-  <!-- Chart 1 Explanation -->
-  <div style="flex: 1; padding: 18px; background: #fafafa; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h4 style="text-align:center;">📊 Percentage Fraud Risk by Region</h4>
-    <p>
-      Analysis revealed that <b>London</b> consistently recorded the <b>highest fraud exposure</b>, with <b>7% of all claims flagged as high risk</b>, despite accounting for <b>31% of total claims</b>.  
-      This suggests that fraud cases are <b>heavily concentrated in high-activity regions</b>, likely due to higher transaction volumes and looser manual verification.  
-      Meanwhile, the <b>Midlands (6%)</b> and <b>Wales (7%)</b> showed moderate but notable risk levels, indicating that <b>fraud risk is not limited to major metropolitan regions</b>.  
-      <b>Insight:</b> London remains the <b>primary fraud hotspot</b>, requiring focused monitoring and stricter pre-claim verification processes.
-    </p>
-  </div>
-
-  <!-- Chart 2 Explanation -->
-  <div style="flex: 1; padding: 18px; background: #fafafa; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.08);">
-    <h4 style="text-align:center;">🚘 High-Risk Claims by Claim Type</h4>
-    <p>
-      The breakdown by claim type shows that <b>Business-related claims</b> had the <b>highest proportion of fraud risk (15%)</b>, far exceeding <b>Auto claims (10%)</b>.  
-      This trend reflects how <b>complex and high-value policy types</b> attract more fraudulent attempts due to potential payout size.  
-      Conversely, <b>Home and Travel claims</b> displayed <b>minimal or no high-risk activity</b>, suggesting that smaller or lower-value claims remain less targeted.  
-      <b>Insight:</b> Business policies require <b>enhanced fraud screening</b> and <b>risk scoring models</b> before settlement approval.
-    </p>
-  </div>
-
-</div>
-
 <h2 align="center">Executive Summary</h2>
 
 <table width="100%">
