@@ -61,7 +61,7 @@ This analysis was developed in collaboration with the **Risk Management Departme
   </div>
 
 </div>
----
+
 <h2 align="center">Executive Summary</h2>
 
 <table width="100%">
@@ -105,5 +105,4 @@ This analysis was developed in collaboration with the **Risk Management Departme
 
   </tr>
 </table>
-
 
