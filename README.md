@@ -24,54 +24,42 @@ This analysis was developed in collaboration with the **Risk Management Departme
 
 <h2 align="center">Executive Summary</h2>
 
-<h2 align="center">Executive Summary</h2>
-
 <table width="100%">
-  <tr>
+<tr>
 
-    <!-- LEFT COLUMN -->
-    <td width="50%" align="center" valign="top">
+<!-- LEFT: REGION -->
+<td width="50%" valign="top" align="center">
 
-      <!-- Chart -->
-      <img src="Percentage%20Fraud%20Risk%20by%20Region.png"
-           alt="Percentage Fraud Risk by Region"
-           width="95%">
+<img src="Percentage%20Fraud%20Risk%20by%20Region.png" width="100%" />
 
-      <!-- Title -->
-      <h4>📊 Percentage Fraud Risk by Region</h4>
+<p><b>📊 Percentage Fraud Risk by Region</b></p>
 
-      <!-- Explanation -->
-      <p align="left">
-        <b>London</b> recorded the <b>highest fraud exposure</b>, with <b>7% of all claims flagged as high risk</b> despite accounting for <b>31% of total claim volume</b>.  
-        This shows that fraud is <b>concentrated in high-activity regions</b>, where larger volumes allow suspicious behaviour to blend in.  
-        The <b>Midlands (6%)</b> and <b>Wales (7%)</b> also show meaningful risk, proving that fraud is <b>not limited to major cities</b>.
-        <br><br>
-        <b>Insight:</b> <b>London is the primary fraud hotspot</b> and should receive stricter monitoring and stronger pre-claim validation.
-      </p>
+<p align="left">
+London shows the <b>highest fraud exposure</b>, with <b>7% of all claims flagged as high risk</b> despite contributing only <b>31% of total claim volume</b>.  
+This indicates fraud is <b>concentrated in high-activity regions</b>, where large volumes allow suspicious behaviour to blend in.  
+The <b>Midlands (6%)</b> and <b>Wales (7%)</b> also show notable fraud risk, proving that fraud is <b>not limited to major cities</b>.
+<br><br>
+<b>Insight:</b> London is the <b>primary fraud hotspot</b> and should be prioritised for stricter pre-claim checks.
+</p>
 
-    </td>
+</td>
 
-    <!-- RIGHT COLUMN -->
-    <td width="50%" align="center" valign="top">
+<!-- RIGHT: CLAIM TYPE -->
+<td width="50%" valign="top" align="center">
 
-      <!-- Chart -->
-      <img src="High%20Risk%20Claim%20by%20Claim%20Type.png"
-           alt="High Risk Claim by Claim Type"
-           width="95%">
+<img src="High%20Risk%20Claim%20by%20Claim%20Type.png" width="100%" />
 
-      <!-- Title -->
-      <h4>🚘 High-Risk Claims by Claim Type</h4>
+<p><b>🚘 High-Risk Claims by Claim Type</b></p>
 
-      <!-- Explanation -->
-      <p align="left">
-        <b>Business claims</b> carry the <b>highest fraud exposure at 15%</b>, far exceeding <b>Auto claims (10%)</b>.  
-        This reflects how <b>high-value and complex policies</b> attract more fraud due to larger payouts and weaker verification paths.  
-        <b>Home and Travel claims</b> show minimal fraud, indicating that <b>lower-value claims are less targeted</b>.
-        <br><br>
-        <b>Insight:</b> <b>Business policies require enhanced fraud screening and risk-based approval</b> before settlement.
-      </p>
+<p align="left">
+<b>Business insurance claims</b> have the <b>highest fraud risk (15%)</b>, significantly higher than <b>Auto claims (10%)</b>.  
+This reflects how <b>high-value and complex policies</b> attract more fraudulent activity due to larger payouts.  
+<b>Home and Travel claims</b> show minimal fraud, meaning <b>smaller claims are less targeted</b>.
+<br><br>
+<b>Insight:</b> Business policies should undergo <b>enhanced fraud screening</b> before settlement.
+</p>
 
-    </td>
+</td>
 
-  </tr>
+</tr>
 </table>
