@@ -63,3 +63,20 @@ This reflects how <b>high-value and complex policies</b> attract more fraudulent
 
 </tr>
 </table>
+
+## How Fraud Risk Was Calculated
+
+Each insurance claim was evaluated using multiple fraud risk indicators designed to capture abnormal or suspicious behaviour. 
+Rather than relying on a single signal, a rule-based scoring framework was used to measure overall fraud exposure per claim.
+
+The fraud risk model was built using the following indicators:
+
+- Duplicate claims (same customer or policy submitting similar claims)
+- Unusually high claim values compared to normal ranges
+- Claims submitted during weekends
+- Manually flagged suspicious claims
+- Customer tenure and historical behaviour
+
+Each claim received a fraud score based on how many of these indicators were triggered.  
+Claims with multiple active flags were classified as **High Risk**, while fewer flags resulted in **Medium, Low, or No Risk** categories.
+
