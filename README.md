@@ -74,9 +74,15 @@ The fraud risk model was built using the following indicators:
 - Duplicate claims (same customer or policy submitting similar claims)
 - Unusually high claim values compared to normal ranges
 - Claims submitted during weekends
-- Manually flagged suspicious claims
-- Customer tenure and historical behaviour
 
 Each claim received a fraud score based on how many of these indicators were triggered.  
 Claims with multiple active flags were classified as **High Risk**, while fewer flags resulted in **Medium, Low, or No Risk** categories.
+
+## Key Fraud Insights
+The fraud risk model and dashboard revealed several important patterns across Verita Assurance’s claims portfolio:
+
+- Fraud is highly concentrated in specific regions, with London and the Midlands showing the highest number of high-risk claims.
+- Business and Auto insurance products generate the largest share of suspicious claims, making them the primary drivers of fraud exposure.
+- A small group of customers and agents account for a disproportionate number of high-risk and multi-flag claims.
+- Only 6.7% of total claims are flagged as High Risk, yet they represent a significant portion of potential financial loss, highlighting the value of targeted investigations.
 
