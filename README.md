@@ -1,6 +1,26 @@
-<h1 align="center">Fraud Risk Analytics for Early Detection in Insurance Claims</h1>
+<h1 align="center">Driving Early Fraud Detection in Insurance Claims</h1>
+<h2 align="center">Fraud Risk Analytics for Proactive Claims Investigation at Verita Assurance Ltd</h2>
 
-<h2 align="center">Client Background</h2>
+<h2>Project Background</h2>
+
+<p>
+  Verita Assurance Ltd. is a mid-sized insurance company in the UK that provides auto, home, travel, and business insurance.
+  Over the last two years, the company noticed a <strong>14% rise in suspicious insurance claims</strong>. Most of these cases
+  were only discovered <strong>after claims had already been paid</strong>, leading to financial losses that could not be recovered
+  and higher investigation costs.
+</p>
+
+<p>
+  As the number of claims continued to grow, the Risk Management team did not have a clear, centralized way to
+  <strong>identify high-risk claims early</strong> or decide <strong>which claims should be investigated first</strong>. Fraud checks
+  were mainly done after payment, making it difficult to prevent losses before they occurred.
+</p>
+
+<p>
+  This analysis was carried out to help Verita Assurance <strong>spot potential fraud earlier in the claims process</strong>, using
+  past claims data to highlight risky patterns and support <strong>earlier investigation before payouts are made</strong>.
+</p>
+
 
 **Verita Assurance Ltd.** is a mid-sized insurance provider based in the UK, offering auto, home, travel, and business coverage. Over the past two years, the company has experienced a **14% rise in suspicious claims**, with most fraudulent activity detected only **after payouts were made**, leading to unrecoverable financial losses and higher operational costs. As claim volumes grew, the lack of a unified fraud detection process increased both financial exposure and compliance risks, prompting the need for a more proactive, data-driven solution.
 
