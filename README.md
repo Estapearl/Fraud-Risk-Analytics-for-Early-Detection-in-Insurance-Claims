@@ -4,43 +4,62 @@
 <h2>Project Background</h2>
 
 <p>
-  Verita Assurance Ltd. is a mid-sized insurance company in the UK that provides auto, home, travel, and business insurance.
-  Over the last two years, the company noticed a <strong>14% rise in suspicious insurance claims</strong>. Most of these cases
-  were only discovered <strong>after claims had already been paid</strong>, leading to financial losses that could not be recovered
-  and higher investigation costs.
+  Verita Assurance Ltd. is a mid-sized insurance provider in the UK offering auto, home, travel, and business insurance.
+  Over the past two years, the company recorded a <strong>14% increase in suspicious insurance claims</strong>. In many cases,
+  potential fraud was only identified <strong>after claims had already been paid</strong>, leading to financial losses that could not
+  be recovered and higher investigation costs.
 </p>
 
 <p>
-  As the number of claims continued to grow, the Risk Management team did not have a clear, centralized way to
-  <strong>identify high-risk claims early</strong> or decide <strong>which claims should be investigated first</strong>. Fraud checks
-  were mainly done after payment, making it difficult to prevent losses before they occurred.
+  As claim volumes increased, the Risk Management team did not have a <strong>single, consistent way to identify high-risk claims early</strong>
+  or decide <strong>which claims should be investigated first</strong>. Fraud checks were largely reactive, making it difficult to prevent losses
+  before payouts were made and increasing both financial and compliance risk.
 </p>
 
 <p>
-  This analysis was carried out to help Verita Assurance <strong>spot potential fraud earlier in the claims process</strong>, using
-  past claims data to highlight risky patterns and support <strong>earlier investigation before payouts are made</strong>.
+  To address this, a fraud risk analytics initiative was carried out using historical claims data. The aim was to
+  <strong>identify recurring fraud patterns</strong>, <strong>assign fraud risk scores</strong>, and support <strong>earlier investigation of suspicious claims before settlement</strong>.
 </p>
 
+<h2>Scope of the Analysis</h2>
 
-**Verita Assurance Ltd.** is a mid-sized insurance provider based in the UK, offering auto, home, travel, and business coverage. Over the past two years, the company has experienced a **14% rise in suspicious claims**, with most fraudulent activity detected only **after payouts were made**, leading to unrecoverable financial losses and higher operational costs. As claim volumes grew, the lack of a unified fraud detection process increased both financial exposure and compliance risks, prompting the need for a more proactive, data-driven solution.
+<p>
+  The analysis reviewed <strong>over 7,000 insurance claims</strong> with a total claim value of <strong>£76.4M</strong> across auto, home, travel,
+  and business insurance. Using a fraud scoring approach, <strong>471 claims worth £8.84M</strong> were flagged as high risk.
+</p>
 
----
-The dataset analyzed contained **7,000+ claims** across various insurance types, with a **total claim value of £76.4M**. Of these, **471 claims worth £8.84M (11.6%)** were flagged as high-risk through a fraud scoring framework. The analysis revealed that **auto claims accounted for 77.5%** of high-risk claims, followed by **business claims at 22.5%**. Regionally, **London and the Midlands** recorded the highest fraud exposure. Furthermore, **16.1% of customers and several agents** showed recurring fraud patterns, emphasizing the need for tighter oversight. These insights provided a strong empirical foundation for improving fraud risk management.
+<ul>
+  <li>Auto claims accounted for <strong>77.5%</strong> of high-risk claims</li>
+  <li>Business claims made up the remaining <strong>22.5%</strong></li>
+  <li>Fraud risk was highest in <strong>London</strong> and the <strong>Midlands</strong></li>
+  <li><strong>16.1%</strong> of customers and a small number of agents were linked to repeated high-risk activity</li>
+</ul>
 
----
+<p>
+  These findings highlighted clear patterns in where fraud risk is concentrated and provided a strong basis for improving fraud risk management.
+</p>
 
-This analysis was developed in collaboration with the **Risk Management Department** to enhance early fraud detection across Verital insurance claims data. The objective is to leverage **historical claims data** to uncover recurring patterns, assign **fraud risk scores (0–100)**, and categorize claims into high, medium, and low-risk tiers. By integrating these insights into **real-time Power BI dashboards**, the team can now identify and investigate suspicious claims **before payouts occur**, enabling them to act swiftly, minimize financial losses, and strengthen overall **risk governance**.
+<h2>Key Analytical Focus Areas</h2>
 
----
-### Key Analytical Focus Areas
+<ul>
+  <li>
+    <strong>Fraud Pattern Detection:</strong>
+    Reviewing past claims to identify common signs of fraud such as repeated claims, unusually high claim values, and short policy duration.
+  </li>
+  <li>
+    <strong>Risk Scoring and Classification:</strong>
+    Assigning fraud risk scores (0–100) and grouping claims into High, Medium, and Low Risk to support investigation prioritization.
+  </li>
+  <li>
+    <strong>Customer and Agent Behaviour:</strong>
+    Identifying customers and agents associated with repeated or concentrated fraud risk to strengthen oversight.
+  </li>
+  <li>
+    <strong>Fraud Risk Monitoring:</strong>
+    Bringing insights together in a dashboard to allow ongoing monitoring of fraud risk across claims, regions, customers, and agents.
+  </li>
+</ul>
 
-- **Fraud Pattern Detection:** Historical claims data was analyzed to identify recurring behaviors and indicators commonly linked with fraudulent submissions, including duplicate claims, unusually high claim values and short policy tenures.  
-
-- **Risk Scoring and Classification:** A fraud scoring model (0–100) was developed to categorize claims into high, medium or low-risk tiers, enabling faster prioritization for investigation before payouts are made.
-
-- **Customer and Agent Behavior Profiling:** Customer and agent activity patterns were evaluated to uncover relationships between repeated claim submissions, claim frequency and past fraud involvement, strengthening early risk identification.  
-
-- **Real-Time Fraud Monitoring:** Interactive Power BI dashboards were implemented to visualize risk levels across claims, customers and regions, allowing the Risk Management and Compliance teams to monitor exposure and respond proactively.
 
 <h2 align="center">Executive Summary</h2>
 
