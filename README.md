@@ -147,7 +147,10 @@ This dashboard effectively translates analytical findings into a **practical dec
   risk management.
 </p>
 
-<hr />
+<p>
+  Together, these actions support <strong>earlier fraud detection</strong>, more <strong>efficient use of investigation resources</strong>,
+  and measurable reductions in <strong>preventable claims leakage</strong> across the claims portfolio.
+</p>
 
 <h2>Final Takeaway for Stakeholders</h2>
 
