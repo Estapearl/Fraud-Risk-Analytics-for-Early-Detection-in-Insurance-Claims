@@ -109,35 +109,35 @@ This dashboard effectively translates analytical findings into a **practical dec
   across Verita Assurance’s claims process.
 </p>
 
-<h2>1. Embed Fraud Risk Scoring Early in the Claims Process</h3>
 <p>
+  <strong>1. Embed Fraud Risk Scoring Early in the Claims Process</strong><br />
   Fraud risk scores should be integrated at the point of claim submission to ensure that high-risk claims are identified
   before payout decisions are made. This would allow investigation teams to intervene earlier, reducing the likelihood of
   preventable fraud losses.
 </p>
 
-<h2>2. Prioritise Investigations Based on Risk and Exposure</h3>
 <p>
+  <strong>2. Prioritise Investigations Based on Risk and Exposure</strong><br />
   High-risk claims, particularly those associated with higher claim values, should be prioritised for investigation.
   Using both risk classification and estimated financial exposure ensures investigative resources are focused where
   potential losses are greatest.
 </p>
 
-<h2>3. Apply Targeted Controls to High-Risk Claim Segments</h3>
 <p>
+  <strong>3. Apply Targeted Controls to High-Risk Claim Segments</strong><br />
   Given that fraud risk is concentrated within specific claim types and regions, enhanced controls and validation checks
   should be applied selectively rather than uniformly. This targeted approach improves fraud prevention while avoiding
   unnecessary friction for low-risk claims.
 </p>
 
-<h2>4. Strengthen Ongoing Monitoring of Medium-Risk Claims</h3>
 <p>
+  <strong>4. Strengthen Ongoing Monitoring of Medium-Risk Claims</strong><br />
   Medium-risk claims represent a significant share of overall claim value and should be monitored closely for behavioural
   changes over time. Early warning signals within this group can help prevent risk escalation and future losses.
 </p>
 
-<h2>5. Use the Dashboard as a Continuous Decision-Support Tool</h3>
 <p>
+  <strong>5. Use the Dashboard as a Continuous Decision-Support Tool</strong><br />
   The fraud risk dashboard should be used as an ongoing monitoring tool rather than a static reporting view. Regular
   review of trends across claims, agents, and regions can help identify emerging fraud patterns and support proactive
   risk management.
