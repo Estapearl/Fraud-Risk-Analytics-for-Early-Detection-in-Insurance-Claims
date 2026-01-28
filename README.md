@@ -101,3 +101,56 @@ By combining high-level indicators with claim-level detail, the dashboard suppor
 This dashboard effectively translates analytical findings into a **practical decision-support tool**, enabling Verita Assurance to move from reactive fraud detection to proactive, risk-based claims management.
 
 <p align="center"> <img src="assets/fraud_risk_dashboard_overview.png" alt="Fraud Risk Intelligence Dashboard" width="700" /> </p>
+
+<h2>Recommendations</h2>
+
+<p>
+  Based on the insights from this analysis, the following actions are recommended to strengthen fraud risk management
+  across Verita Assurance’s claims process.
+</p>
+
+<h3>1. Embed Fraud Risk Scoring Early in the Claims Process</h3>
+<p>
+  Fraud risk scores should be integrated at the point of claim submission to ensure that high-risk claims are identified
+  before payout decisions are made. This would allow investigation teams to intervene earlier, reducing the likelihood of
+  preventable fraud losses.
+</p>
+
+<h3>2. Prioritise Investigations Based on Risk and Exposure</h3>
+<p>
+  High-risk claims, particularly those associated with higher claim values, should be prioritised for investigation.
+  Using both risk classification and estimated financial exposure ensures investigative resources are focused where
+  potential losses are greatest.
+</p>
+
+<h3>3. Apply Targeted Controls to High-Risk Claim Segments</h3>
+<p>
+  Given that fraud risk is concentrated within specific claim types and regions, enhanced controls and validation checks
+  should be applied selectively rather than uniformly. This targeted approach improves fraud prevention while avoiding
+  unnecessary friction for low-risk claims.
+</p>
+
+<h3>4. Strengthen Ongoing Monitoring of Medium-Risk Claims</h3>
+<p>
+  Medium-risk claims represent a significant share of overall claim value and should be monitored closely for behavioural
+  changes over time. Early warning signals within this group can help prevent risk escalation and future losses.
+</p>
+
+<h3>5. Use the Dashboard as a Continuous Decision-Support Tool</h3>
+<p>
+  The fraud risk dashboard should be used as an ongoing monitoring tool rather than a static reporting view. Regular
+  review of trends across claims, agents, and regions can help identify emerging fraud patterns and support proactive
+  risk management.
+</p>
+
+<hr />
+
+<h2>Final Takeaway for Stakeholders</h2>
+
+<p>
+  Fraud risk at Verita Assurance is <strong>concentrated, measurable, and actionable</strong>. By applying insights from
+  historical claims data and operationalising them through real-time dashboards, the organisation can shift from reactive
+  fraud detection to <strong>proactive, risk-based claims management</strong>. This approach not only reduces financial
+  losses but also supports efficient investigations and protects the experience of genuine customers.
+</p>
+
