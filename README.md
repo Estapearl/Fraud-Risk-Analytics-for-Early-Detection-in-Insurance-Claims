@@ -155,6 +155,13 @@ This dashboard effectively translates analytical findings into a **practical dec
 
 <h2>Final Takeaway for Stakeholders</h2>
 
+<p>
+  Fraud risk at Verita Assurance is <strong>concentrated, measurable, and actionable</strong>. By applying insights from
+  historical claims data and operationalising them through real-time dashboards, the organisation can shift from reactive
+  fraud detection to <strong>proactive, risk-based claims management</strong>. This approach not only reduces financial
+  losses but also supports efficient investigations and protects the experience of genuine customers.
+</p>
+
 <h2>Tools & Skills Demonstrated</h2>
 
 <ul>
@@ -165,11 +172,4 @@ This dashboard effectively translates analytical findings into a **practical dec
   <li>Power BI dashboard design and reporting</li>
 </ul>
 
-
-<p>
-  Fraud risk at Verita Assurance is <strong>concentrated, measurable, and actionable</strong>. By applying insights from
-  historical claims data and operationalising them through real-time dashboards, the organisation can shift from reactive
-  fraud detection to <strong>proactive, risk-based claims management</strong>. This approach not only reduces financial
-  losses but also supports efficient investigations and protects the experience of genuine customers.
-</p>
 
