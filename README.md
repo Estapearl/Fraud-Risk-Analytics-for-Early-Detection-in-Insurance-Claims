@@ -1,5 +1,5 @@
 <h1 align="center">Driving Early Fraud Detection in Insurance Claims</h1>
-<h2 align="center">Fraud Risk Analytics for Proactive Claims Investigation at Verita Assurance Ltd</h2>
+<h3 align="center">Fraud Risk Analytics for Proactive Claims Investigation at Verita Assurance Ltd</h3>
 
 <h2>Project Background</h2>
 
