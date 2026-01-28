@@ -62,6 +62,8 @@
 
 
 <h2 align="center">Key Findings and Business Insights</h2>
+
+<p>
 This section highlights the most important outcomes from the fraud risk analysis, focusing on where fraud risk is concentrated, how it impacts the business financially, and how these insights can support earlier, risk-based investigation decisions across insurance claims.
 
 **Insight 1: Identifying and Prioritising High-Risk Claims**
