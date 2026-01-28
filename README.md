@@ -74,3 +74,16 @@ Out of more than **7,000 claims** analysed, **471 claims** were classified as **
 This approach shifts fraud detection from a post-payment review to an early, risk-based process, enabling investigations to focus on the claims that matter most and reducing the likelihood of preventable fraud losses.
 
 <p align="center"> <img src="assets/claims_distribution_by_fraud_risk_category.png" alt="Claims Distribution by Fraud Risk Category" width="500" /> </p>
+
+
+**Insight 2: Understanding Financial Exposure from Fraud Risk**
+
+While claim volumes help identify where fraud risk exists, understanding **financial exposure** is critical for assessing business impact. This chart shows the **total claim value associated with each fraud risk category**.
+
+Although **high-risk claims** represent a smaller portion of total claim volume, they account for an estimated **£8.84M in potential fraud exposure**. This confirms that fraud risk is financially concentrated, meaning a relatively small number of claims can drive a disproportionate share of potential losses if not identified early.
+
+**Medium-risk claims** account for a substantial share of overall claim value and require ongoing monitoring, as changes in behaviour within this group could materially increase exposure. **Low-risk claims** represent the largest share of claim value but are less likely to be fraudulent, making them suitable for faster processing without intensive review.
+
+Viewing fraud risk through a financial lens allows Verita Assurance to prioritise investigations based on potential loss, not just claim volume, ensuring fraud controls are focused where they deliver the greatest business value.
+
+<p align="center"> <img src="assets/total_claim_amount_by_fraud_risk_category.png" alt="Total Claim Amount by Fraud Risk Category" width="500" /> </p>
