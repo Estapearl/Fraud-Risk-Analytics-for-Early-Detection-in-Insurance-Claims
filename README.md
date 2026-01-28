@@ -63,7 +63,7 @@
 
 <h2 align="center">Executive Summary</h2>
 
-Insight 1: Identifying and Prioritising High-Risk Claims
+**Insight 1: Identifying and Prioritising High-Risk Claims**
 
 This chart shows how insurance claims were grouped into High, Medium, and Low Risk categories using patterns identified from historical claims data. These patterns reflect behaviours that have previously been linked to fraud and can be applied to new claims as they are submitted, allowing risk to be assessed early in the claims process.
 
@@ -72,7 +72,9 @@ Out of more than 7,000 claims analysed, 471 claims were classified as high risk.
 This segmentation allows the Risk Management team to focus effort where it matters most, rather than reviewing claims randomly or after payment.
 
 <p align="center"> <img src="assets/claims_distribution_by_fraud_risk_category.png" alt="Claims Distribution by Fraud Risk Category" width="500" /> </p>
-Insight 2: Understanding Financial Exposure from Fraud Risk
+
+
+**Insight 2: Understanding Financial Exposure from Fraud Risk**
 
 While claim counts show where fraud risk exists, financial exposure shows where the business impact lies. This chart displays the total claim value associated with each fraud risk category.
 
