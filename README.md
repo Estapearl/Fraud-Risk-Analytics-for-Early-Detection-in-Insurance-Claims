@@ -88,3 +88,16 @@ Although **high-risk claims** represent a smaller portion of total claim volume,
 Viewing fraud risk through a financial lens allows Verita Assurance to prioritise investigations based on potential loss, not just claim volume, ensuring fraud controls are focused where they deliver the greatest business value.
 
 <p align="center"> <img src="assets/total_claim_amount_by_fraud_risk_category.png" alt="Total Claim Amount by Fraud Risk Category" width="500" /> </p>
+
+
+**Fraud Risk Intelligence Dashboard**
+
+The findings from this analysis were consolidated into a fraud risk intelligence dashboard designed to support **ongoing monitoring and investigation decisions** within the claims process.
+
+Rather than reviewing claims in isolation, the dashboard provides a **single, unified view of fraud risk** across claims, customers, agents, regions, and claim types. It allows the Risk Management team to quickly identify where fraud risk is concentrated, assess the level of financial exposure, and prioritise claims that require immediate attention.
+
+By combining high-level indicators with claim-level detail, the dashboard supports both **strategic oversight** and **day-to-day operational action**. High-risk claims can be identified early, monitored continuously, and investigated before payout decisions are made, while low-risk claims can proceed without unnecessary delays.
+
+This dashboard effectively translates analytical findings into a **practical decision-support tool**, enabling Verita Assurance to move from reactive fraud detection to proactive, risk-based claims management.
+
+<p align="center"> <img src="assets/fraud_risk_dashboard_overview.png" alt="Fraud Risk Intelligence Dashboard" width="700" /> </p>
