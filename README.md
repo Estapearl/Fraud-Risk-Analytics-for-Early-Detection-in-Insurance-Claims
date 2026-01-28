@@ -67,9 +67,9 @@
 
 One of the key objectives of this analysis was to identify which insurance claims carry the highest fraud risk and should be reviewed before payment is made.
 
-The chart shows how claims were grouped into High, Medium, and Low Risk categories based on patterns observed in past claims. By analysing historical claims data, Verita Assurance can understand which claim behaviours have previously been linked to fraudulent activity. These same patterns can then be applied to new claims as they are received, allowing each claim to be scored and classified early in the claims process.
+The chart shows how claims were grouped into **High, Medium, and Low Risk categories** based on patterns observed in past claims. By analysing historical claims data, Verita Assurance can understand which claim behaviours have previously been linked to fraudulent activity. These same patterns can then be applied to new claims as they are received, allowing each claim to be scored and classified early in the claims process.
 
-Out of more than 7,000 claims analysed, 471 claims were classified as high risk. While this represents a relatively small share of total claims, these cases form the priority investigation queue for the Risk Management team. Medium-risk claims can be monitored over time, while low-risk claims can proceed with minimal friction, helping to protect the experience of genuine customers.
+Out of more than **7,000 claims** analysed, **471 claims** were classified as **high risk**. While this represents a relatively small share of total claims, these cases form the priority investigation queue for the Risk Management team. **Medium-risk claims** can be monitored over time, while **low-risk claims** can proceed with minimal friction, helping to protect the experience of genuine customers.
 
 This approach shifts fraud detection from a post-payment review to an early, risk-based process, enabling investigations to focus on the claims that matter most and reducing the likelihood of preventable fraud losses.
 
