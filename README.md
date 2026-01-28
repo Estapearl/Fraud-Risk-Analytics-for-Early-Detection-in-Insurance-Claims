@@ -41,10 +41,6 @@
   <li><strong>16.1%</strong> of customers and a small number of agents were linked to repeated high-risk activity</li>
 </ul>
 
-<p>
-  These findings highlighted clear patterns in where fraud risk is concentrated and provided a strong basis for improving fraud risk management.
-</p>
-
 <h2>Key Analytical Focus Areas</h2>
 
 <ul>
@@ -72,7 +68,7 @@
 <p>
 This section highlights the most important outcomes from the fraud risk analysis, focusing on where fraud risk is concentrated, how it impacts the business financially, and how these insights can support earlier, risk-based investigation decisions across insurance claims.
 
-**Insight 1: Identifying and Prioritising High-Risk Claims**
+<h3>Insight 1: Identifying and Prioritising High-Risk Claims</h3>
 
 One of the key objectives of this analysis was to identify which insurance claims carry the highest fraud risk and should be reviewed before payment is made.
 
@@ -85,7 +81,7 @@ This approach shifts fraud detection from a post-payment review to an early, ris
 <p align="center"> <img src="assets/claims_distribution_by_fraud_risk_category.png" alt="Claims Distribution by Fraud Risk Category" width="500" /> </p>
 
 
-**Insight 2: Understanding Financial Exposure from Fraud Risk**
+<h3>Insight 2: Understanding Financial Exposure from Fraud Risk</h3>
 
 While claim volumes help identify where fraud risk exists, understanding **financial exposure** is critical for assessing business impact. This chart shows the **total claim value associated with each fraud risk category**.
 
