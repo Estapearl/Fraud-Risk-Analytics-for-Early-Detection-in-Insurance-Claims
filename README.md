@@ -70,6 +70,7 @@
         src="assets/claims_distribution_by_fraud_risk_category.png"
         alt="Claims Distribution by Fraud Risk Category"
         width="500"
+        height="320"
       />
     </td>
     <td align="center">
@@ -77,8 +78,8 @@
         src="assets/total_claim_amount_by_fraud_risk_category.png"
         alt="Total Claim Amount by Fraud Risk Category"
         width="500"
+        height="320"
       />
     </td>
   </tr>
 </table>
-
