@@ -83,3 +83,32 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Identifying and Prioritising High-Risk Claims</h3>
+      <p>
+        This chart shows how claims were grouped into High, Medium, and Low Risk categories using patterns
+        observed in historical claims. These patterns can be applied to new claims as they are received,
+        allowing suspicious claims to be flagged early and prioritised for investigation before payment.
+      </p>
+      <p>
+        Out of more than 7,000 claims analysed, 471 were classified as high risk. While this is a small share
+        of total claims, it forms the priority investigation queue for the Risk Management team.
+      </p>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>Understanding Financial Exposure from Fraud Risk</h3>
+      <p>
+        This chart shows the total claim value linked to each fraud risk category. Although high-risk claims
+        are fewer in number, they represent a significant share of potential fraud exposure.
+      </p>
+      <p>
+        Viewing fraud risk through a financial lens allows investigations to be prioritised not only by
+        volume, but by potential loss, ensuring fraud controls focus where they deliver the greatest value.
+      </p>
+    </td>
+  </tr>
+</table>
+
