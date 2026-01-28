@@ -1,6 +1,11 @@
 <h1 align="center">Driving Early Fraud Detection in Insurance Claims</h1>
 <p align="center"><strong>Fraud Risk Analytics for Proactive Claims Investigation at Verita Assurance Ltd</strong></p>
 
+<p align="center">
+  <em>A data-driven fraud analytics project focused on early detection, investigation prioritisation, and loss prevention in insurance claims.</em>
+</p>
+
+
 
 <h2>Project Background</h2>
 
@@ -149,6 +154,17 @@ This dashboard effectively translates analytical findings into a **practical dec
 <hr />
 
 <h2>Final Takeaway for Stakeholders</h2>
+
+<h2>Tools & Skills Demonstrated</h2>
+
+<ul>
+  <li>Fraud risk analysis and claims investigation</li>
+  <li>Data cleaning and exploratory analysis</li>
+  <li>Risk scoring and classification frameworks</li>
+  <li>Business-focused data storytelling</li>
+  <li>Power BI dashboard design and reporting</li>
+</ul>
+
 
 <p>
   Fraud risk at Verita Assurance is <strong>concentrated, measurable, and actionable</strong>. By applying insights from
