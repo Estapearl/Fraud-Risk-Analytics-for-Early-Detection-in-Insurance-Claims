@@ -63,13 +63,23 @@
 
 <h2 align="center">Executive Summary</h2>
 
-<img src="assets/claims_distribution_by_fraud_risk_category.png" alt="Claims Distribution by Fraud Risk Category" width="500">	<img src="assets/total_claim_amount_by_fraud_risk_category.png" alt="Total Claim Amount by Fraud Risk Category" width="500">
-Identifying and Prioritising High-Risk Claims
+Insight 1: Identifying and Prioritising High-Risk Claims
 
-This chart shows how insurance claims were grouped into High, Medium, and Low Risk categories using patterns identified from historical claims data. These patterns can be applied to new claims as they are submitted, allowing high-risk cases to be flagged early and reviewed before payment.
+This chart shows how insurance claims were grouped into High, Medium, and Low Risk categories using patterns identified from historical claims data. These patterns reflect behaviours that have previously been linked to fraud and can be applied to new claims as they are submitted, allowing risk to be assessed early in the claims process.
 
-Out of more than 7,000 claims analysed, 471 were classified as high risk. While this represents a small share of total claims, these cases form the priority investigation queue for the Risk Management team.	Understanding Financial Exposure from Fraud Risk
+Out of more than 7,000 claims analysed, 471 claims were classified as high risk. While this is a relatively small share of total claims, these cases represent the primary focus for investigation, as they carry a higher likelihood of fraud if paid without review. Medium-risk claims can be monitored over time, while low-risk claims can be processed with minimal friction to protect genuine customer experience.
 
-This chart highlights the total claim value associated with each fraud risk category. Although high-risk claims are fewer in number, they account for a significant portion of potential fraud exposure.
+This segmentation allows the Risk Management team to focus effort where it matters most, rather than reviewing claims randomly or after payment.
 
-Viewing fraud risk through a financial lens allows investigations to be prioritised not just by the number of claims, but by potential loss, ensuring fraud controls focus on the areas of greatest impact.
+<p align="center"> <img src="assets/claims_distribution_by_fraud_risk_category.png" alt="Claims Distribution by Fraud Risk Category" width="500" /> </p>
+Insight 2: Understanding Financial Exposure from Fraud Risk
+
+While claim counts show where fraud risk exists, financial exposure shows where the business impact lies. This chart displays the total claim value associated with each fraud risk category.
+
+Although high-risk claims are fewer in number, they account for an estimated £8.84M in potential fraud exposure. This confirms that fraud risk is financially concentrated, meaning a small group of claims can drive a large share of potential losses if not identified early.
+
+Medium-risk claims represent a sizable portion of overall claim value and require continued monitoring, as changes in behaviour within this group could quickly increase exposure. Low-risk claims make up the largest share of claim value but are less likely to be fraudulent, making them suitable for faster processing.
+
+Viewing fraud risk through a financial lens ensures investigations are prioritised based on potential loss, not just claim volume.
+
+<p align="center"> <img src="assets/total_claim_amount_by_fraud_risk_category.png" alt="Total Claim Amount by Fraud Risk Category" width="500" /> </p>
